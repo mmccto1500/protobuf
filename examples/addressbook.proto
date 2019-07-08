@@ -7,7 +7,7 @@
 // https://developers.google.com/protocol-buffers/docs/tutorials
 
 // [START declaration]
-syntax = "proto3";
+syntax = "proto2";//ÐÞ¸Ä³Éproto2
 package tutorial;
 
 import "google/protobuf/timestamp.proto";
